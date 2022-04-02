@@ -1,0 +1,18 @@
+playlist membuat web portofolio tailwind css:
+    ☐ https://youtu.be/8Ea4oq8qFtM?list=PLFIM0718LjIUHFRMzPJ0wGjx9_NlC5d1h
+    ☐ https://youtu.be/8Ea4oq8qFtM?list=PLFIM0718LjIUHFRMzPJ0wGjx9_NlC5d1h&t=3081 51:21
+    ☐ https://youtu.be/8Ea4oq8qFtM?list=PLFIM0718LjIUHFRMzPJ0wGjx9_NlC5d1h&t=5025 1:23:46 
+
+step by step:
+    ☐ npm init
+    ☐ ctrl + space untuk liat shortcut tailwind
+    ☐ remove.bg untuk hapus bg
+    ☐ https://www.blobmaker.app/ buat blog svg
+    ☐ simple icon https://simpleicons.org/ svg icon free
+    ☐ https://youtu.be/_CntOc4hBcg
+
+
+prettier:
+    ☐ npm i -D prettier prettier-plugin-tailwindcss
+    ☐ npx prettier --check index.html
+    ☐ npx prettier --write index.html
