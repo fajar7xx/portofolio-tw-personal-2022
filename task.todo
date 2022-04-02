@@ -14,5 +14,5 @@ step by step:
 
 prettier:
     ☐ npm i -D prettier prettier-plugin-tailwindcss
-    ☐ npx prettier --check index.html
-    ☐ npx prettier --write index.html
+    ☐ npx prettier --check index.html or .
+    ☐ npx prettier --write index.html or .
